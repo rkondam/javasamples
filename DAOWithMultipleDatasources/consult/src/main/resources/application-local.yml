@@ -1,0 +1,13 @@
+
+consult:
+  db1:
+    driver-classname: com.microsoft.sqlserver.jdbc.SQLServerDriver
+    url: jdbc:sqlserver://dconsult1.database.windows.net:1433;database=DCONSULT1
+    username: rrk8485
+    password: 1*********1
+  db2:
+    driver-classname: com.microsoft.sqlserver.jdbc.SQLServerDriver
+    url: jdbc:sqlserver://dconsult2.database.windows.net:1433;database=dconsult2
+    username: rrk8485
+    password: 2**********2
+  
